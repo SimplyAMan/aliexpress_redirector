@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         Aliexpress redirector
 // @namespace    simplyaman
+// @downloadURL  https://github.com/SimplyAMan/aliexpress_redirector/blob/master/aliexpress_redirector.user.js
 // @version      0.1
 // @description  Redirect from national to english version of Aliexpress (Ukraine)
 // @author       SimplyAMan
