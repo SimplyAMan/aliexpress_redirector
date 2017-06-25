@@ -7,4 +7,4 @@ Aliexpress для українського сегменту Інтернету �
 
 *Disclaimer.* This software is provided "as is". Moreover it's my first project in JavaScript.
 
-As a example I use https://bitbucket.org/globalbus/aliexpress-redirector/downloads/aliexpress-redirector.user.js
+As a example I used https://bitbucket.org/globalbus/aliexpress-redirector/downloads/aliexpress-redirector.user.js
